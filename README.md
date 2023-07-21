@@ -1,5 +1,5 @@
 <h3 align="left">Hi, what's up? 🤪</h3>
-<h4 align="left">I'm a student from Brazil 😁</h4>
+<h4 align="left">I'm just a student by now. Trying to achieve the best version of myself. </h4>
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
