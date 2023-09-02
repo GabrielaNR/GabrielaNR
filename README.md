@@ -16,9 +16,3 @@
 <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="sql" width="40" height="40"/>
 <img src="https://w7.pngwing.com/pngs/718/323/png-transparent-java-computer-icons-java-miscellaneous-text-symbol-thumbnail.png" alt="jav" width="40" height="40">
 
-<div align=center>
-  <center>
-  <p><em>Thanks for visiting!</em></p>
-  <img src="https://media.tenor.com/Ur6nVCDf-z8AAAAC/suguru-geto-geto.gif" alt="geto"/>
-  </center>
-</div>
