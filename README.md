@@ -16,7 +16,7 @@
 <img src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png" alt="python" width="40" height="40"/> 
 <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" alt="sql" width="40" height="40"/> 
 <img src="https://w7.pngwing.com/pngs/718/323/png-transparent-java-computer-icons-java-miscellaneous-text-symbol-thumbnail.png" alt="jav" width="40" height="40">
-<img src="https://w7.pngwing.com/pngs/100/669/png-transparent-computer-programming-programming-language-c-programmer-language-miscellaneous-logo-c.png" alt="c" width="40" height="40"/>
+<img src="https://www.clipartmax.com/png/middle/351-3515666_c-language-global-or-external-variables-with-examples-c-programming-logo.png" alt="c" width="40" height="40"/>
 </div>
 
 
